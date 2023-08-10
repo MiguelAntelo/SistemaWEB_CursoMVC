@@ -13,6 +13,7 @@ namespace SistemaWEB_CursoMVC
     {
         public static void Main(string[] args)
         {
+            //Prueba
             CreateHostBuilder(args).Build().Run();
         }
 
